@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shadhin-online-shop.git/static/css/main.e6f5b8c7.css",
+    "main.js": "/shadhin-online-shop.git/static/js/main.fa86b0ce.js",
+    "static/js/787.e5757d09.chunk.js": "/shadhin-online-shop.git/static/js/787.e5757d09.chunk.js",
+    "static/media/logo-png.png": "/shadhin-online-shop.git/static/media/logo-png.723b698345a9aad90512.png",
+    "index.html": "/shadhin-online-shop.git/index.html",
+    "main.e6f5b8c7.css.map": "/shadhin-online-shop.git/static/css/main.e6f5b8c7.css.map",
+    "main.fa86b0ce.js.map": "/shadhin-online-shop.git/static/js/main.fa86b0ce.js.map",
+    "787.e5757d09.chunk.js.map": "/shadhin-online-shop.git/static/js/787.e5757d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f5b8c7.css",
+    "static/js/main.fa86b0ce.js"
+  ]
+}
